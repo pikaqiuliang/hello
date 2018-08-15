@@ -1,1 +1,2 @@
-hello world, my frist test about git
+hello world, hi , my frist test about git
+git is free software.
